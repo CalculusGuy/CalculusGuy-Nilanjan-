@@ -30,7 +30,7 @@
 - EY Technology Risk Forage ⭐
 - TATA Cybersecurity Analyst Forage ⭐
 - IBM SkillsBuild Cybersecurity ⭐
-- HackerDNA — Rank #570 🏆
+- HackerDNA — Rank #475 🏆
 
 ---
 
