@@ -1,6 +1,6 @@
 # Hey, I'm Nilanjan 👋
 
-**Cybersecurity Researcher | AI Red Teamer | Builder**
+**Cybersecurity Researcher | AI Red Teamer | Ethical Hacker | Web LMM Security**
 
 > *"Breaking things ethically and documenting it."*
 
